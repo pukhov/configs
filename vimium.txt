@@ -1,0 +1,36 @@
+# Insert your preferred key mappings here.
+unmap j
+map n scrollDown
+unmap k
+map e scrollUp
+
+unmap J
+unmap K
+map i previousTab
+map I visitPreviousTab
+map o nextTab
+
+unmap l
+unmap L
+unmap h 
+unmap H
+map N goBack 
+map E goForward
+
+map h createTab
+map t LinkHints.activateMode
+map T LinkHints.activateModeToOpenInNewForegroundTab
+
+map f Vomnibar.activate
+map F Vomnibar.activateInNewTab
+
+
+
+============================================================
+
+m: https://www.google.com/maps?q=%s Google maps
+w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
+
+============================================================
+
+arstneiodhgmpl
